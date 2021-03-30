@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-30T07:04:20.365Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="za3xH5_PACbjRNcQLeDP" version="14.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-30T07:07:58.794Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="xuJh4HC_KWKkbVZSNYD5" version="14.5.3" type="github">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
     <mxGraphModel dx="868" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
       <root>
@@ -19,14 +19,14 @@
         <mxCell id="vzdBjoWcfzII2oSM2Iy0-45" value="&lt;b&gt;Movimenti in uscita ed entrata&amp;nbsp;&lt;/b&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="415" y="250" width="190" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="vzdBjoWcfzII2oSM2Iy0-46" value="- Supermarket LIdl&amp;nbsp; 14/03/21&amp;nbsp; &amp;nbsp;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="420" y="280" width="180" height="20" as="geometry" />
+        <mxCell id="vzdBjoWcfzII2oSM2Iy0-46" value="Supermarket LIdl&amp;nbsp; 14/03/21&amp;nbsp; &amp;nbsp;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="425" y="280" width="170" height="20" as="geometry" />
         </mxCell>
         <mxCell id="vzdBjoWcfzII2oSM2Iy0-47" value="uscita" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="620" y="300" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="vzdBjoWcfzII2oSM2Iy0-48" value="- Stipendio 30/02/21&amp;nbsp; &amp;nbsp;&amp;nbsp;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="420" y="360" width="140" height="20" as="geometry" />
+        <mxCell id="vzdBjoWcfzII2oSM2Iy0-48" value="Stipendio 30/02/21&amp;nbsp; &amp;nbsp;&amp;nbsp;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="425" y="360" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="vzdBjoWcfzII2oSM2Iy0-49" value="entrata" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="620" y="380" width="50" height="20" as="geometry" />
